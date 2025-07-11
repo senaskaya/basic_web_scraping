@@ -1,0 +1,7 @@
+IPython
+bs4
+matplotlib_inline
+pandas
+plotly
+requests
+yfinance
